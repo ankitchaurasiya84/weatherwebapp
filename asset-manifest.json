@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weatherwebapp/static/css/main.109b2071.css",
+    "main.js": "/weatherwebapp/static/js/main.95b6ed49.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/weatherwebapp/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/logo.svg": "/weatherwebapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/weatherwebapp/index.html",
+    "main.109b2071.css.map": "/weatherwebapp/static/css/main.109b2071.css.map",
+    "main.95b6ed49.js.map": "/weatherwebapp/static/js/main.95b6ed49.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/weatherwebapp/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.109b2071.css",
+    "static/js/main.95b6ed49.js"
+  ]
+}
